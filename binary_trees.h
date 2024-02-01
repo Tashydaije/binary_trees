@@ -1,6 +1,8 @@
 #ifndef __BINARY_TREES__
 #define __BINARY_TREES__
 
+#include <stdlib.h>
+
 /**
  * struct binary_tree_s - Binary tree node
  *
